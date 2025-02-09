@@ -8,7 +8,7 @@ authors:
 
 #Author Names (alternative spellings etc)
 names:
-- sreeram Mandava
+- Sreeram Mandava
 
 # Is this the primary user of the site?
 superuser: false
@@ -88,6 +88,10 @@ user_groups:
 display_groups:
 - WINLAB 
 - Thrust_2
+research_area: true
+
+research_area_tags:
+- 'Spectrum Sharing'
 
 ---
 
