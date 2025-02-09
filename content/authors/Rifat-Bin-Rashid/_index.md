@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Sreeram Mandava
+title: Rifat Bin Rashid
 
 # Username (this should match the folder name)
 authors:
-- Sreeram Mandava
+- Rifat Bin Rashid
 
 #Author Names (alternative spellings etc)
 names:
-- sreeram Mandava
+- Rifat Bin Rashid
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ department:
 weight: 300
 
 # Role/position
-role: Graduate Researcher, M.S.
+role: Graduate Researcher, Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -33,21 +33,21 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 5G Spectrum Coexistence
-- DVB SAT-Terrestrial Networks
-- Machine Learning & Reinforcement Learning
+- Wireless Communication Technology
+- Signal Processing
+- Machine Learning
 
 education:
   courses:
-  - course: MS in Machine Learning
+  - course: Ph.D. in Electrical Engineering
     institution: Rutgers Univerity, New Brunswick
-    year: 2025
+    year: 2028
 
 ##### UPDATE PREVIOUS EDUCATION ####
 
-  - course: BS in Computer Engineering
-    institution: Rutgers University, New Brunswick
-    year: 2023
+  - course: BSc in Electrical and Electronic Engineering
+    institution: Bangladesh University of Engineering and Technology
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,16 +57,16 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: "mailto:sreeram@winlab.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
+  link: "mailto:rr1472@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
 - icon: github
-  icon_pack: fab
-  link: https://github.com/sm2244
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=nobS75MAAAAJ
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Sreeram-Mandava 
+  link: https://www.researchgate.net/profile/Rifat-Rashid-3 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sreeram-m-8bb58a1b7/ 
+  link: https://www.linkedin.com/in/rifat-bin-rashid/
 #- icon: university-logo
 #  icon_pack: Custom_University
 #  link: https://www.colorado.edu/certificate/iqbiology/people-0
@@ -91,4 +91,4 @@ display_groups:
 
 ---
 
-Sreeram Mandava is a second-year masters student in the electrical and computer engineering department at Rutgers University, studying under Professor Mandayam and Ivan Seskar. Before entering the master's program, Sreeram completed a bachelor’s at Rutgers University. He is particularly interested in the machine learning, wireless communication, and digital signal processing. He currently is a graduate assistant at WINLAB.
+Rifat Bin Rashid is a first-year doctoral candidate in the Department of Electrical and Computer Engineering at Rutgers University, working under the supervision of Professor Narayan Mandayam. Prior to joining Rutgers, he earned his bachelor's degree from the Bangladesh University of Engineering and Technology (BUET). His research interests lie in next-generation wireless communication systems and signal processing techniques. Currently, he serves as a graduate assistant at WINLAB.
