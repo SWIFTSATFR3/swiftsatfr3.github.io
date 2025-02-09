@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rifat Bin Rashid
+title: Donglin-Gao
 
 # Username (this should match the folder name)
 authors:
-- Rifat Bin Rashid
+- Donglin-Gao
 
 #Author Names (alternative spellings etc)
 names:
-- Rifat Bin Rashid
+- Donglin-Gao
 
 # Is this the primary user of the site?
 superuser: false
@@ -33,21 +33,24 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Wireless Communication Technology
-- Signal Processing
-- Machine Learning
+- Electromagnetic Magnetic Matermaterial Antennas
+- Radar Sensor Design
+- Healthcare
 
 education:
   courses:
   - course: Ph.D. in Electrical Engineering
     institution: Rutgers Univerity, New Brunswick
-    year: 2028
+    year: 2026
 
 ##### UPDATE PREVIOUS EDUCATION ####
 
-  - course: BSc in Electrical and Electronic Engineering
-    institution: Bangladesh University of Engineering and Technology
-    year: 2022
+  - course: M.S. in Electrical and Computer Engineering
+    institution: Rutgers University, New Brunswick
+    year: 2021
+  - course: B.S. in Electronic Science and Technology
+    institution: University of Electronic Science and Technology of China
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,16 +60,16 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: "mailto:rr1472@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
+  link: "mailto:dg921@soe.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nobS75MAAAAJ
+  link: https://scholar.google.com/citations?user=ts58kBgAAAAJ&hl=zh-CN 
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Rifat-Rashid-3 
+  link: https://www.researchgate.net/profile/Donglin-Gao-3
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rifat-bin-rashid/
+  link: https://www.linkedin.com/in/donglin-gao-99102526a/
 #- icon: university-logo
 #  icon_pack: Custom_University
 #  link: https://www.colorado.edu/certificate/iqbiology/people-0
@@ -83,12 +86,11 @@ social:
 user_groups:
 - Researchers
 - Graduate Students
-- WINLAB Group
 #any user groups to display on the page
 display_groups:
-- WINLAB 
-- Thrust_2
+- MWLab 
+- Thrust_1
 
 ---
 
-Rifat Bin Rashid is a first-year doctoral candidate in the Department of Electrical and Computer Engineering at Rutgers University, working under the supervision of Professor Narayan Mandayam. Prior to joining Rutgers, he earned his bachelor's degree from the Bangladesh University of Engineering and Technology (BUET). His research interests lie in next-generation wireless communication systems and signal processing techniques. Currently, he serves as a graduate assistant at WINLAB.
+Donglin Gao received the B.S. degrees in electrical engineering from University of Electronic Science and Technology of China, Chengdu, China, in 2019 and the M.S. degrees in electrical engineering from Rutgers, The State University of New Jersey, New Brunswick, NJ, USA, in 2021, respectively. He is currently pursuing the Ph.D. degree at Rutgers, The State University of New Jersey, New Brunswick, NJ, USA. His current research interests include electromagnetic metamaterial antenna-based radar sensor designs and their application on vital sign monitoring.

@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rifat Bin Rashid
+title: Aman Grandhi
 
 # Username (this should match the folder name)
 authors:
-- Rifat Bin Rashid
+- Aman Grandhi
 
 #Author Names (alternative spellings etc)
 names:
-- Rifat Bin Rashid
+- Aman Grandhi
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ department:
 weight: 300
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -33,21 +33,16 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Wireless Communication Technology
 - Signal Processing
 - Machine Learning
 
 education:
   courses:
-  - course: Ph.D. in Electrical Engineering
+  - course: B.S. in Computer Engineering
     institution: Rutgers Univerity, New Brunswick
     year: 2028
 
 ##### UPDATE PREVIOUS EDUCATION ####
-
-  - course: BSc in Electrical and Electronic Engineering
-    institution: Bangladesh University of Engineering and Technology
-    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,16 +52,10 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: "mailto:rr1472@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nobS75MAAAAJ
-- icon: user-graduate
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Rifat-Rashid-3 
+  link: "mailto:ag2285@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rifat-bin-rashid/
+  link: https://www.linkedin.com/in/aman-grandhi 
 #- icon: university-logo
 #  icon_pack: Custom_University
 #  link: https://www.colorado.edu/certificate/iqbiology/people-0
@@ -81,8 +70,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
+- Undergraduate Students
 - WINLAB Group
 #any user groups to display on the page
 display_groups:
@@ -91,4 +79,4 @@ display_groups:
 
 ---
 
-Rifat Bin Rashid is a first-year doctoral candidate in the Department of Electrical and Computer Engineering at Rutgers University, working under the supervision of Professor Narayan Mandayam. Prior to joining Rutgers, he earned his bachelor's degree from the Bangladesh University of Engineering and Technology (BUET). His research interests lie in next-generation wireless communication systems and signal processing techniques. Currently, he serves as a graduate assistant at WINLAB.
+Aman Grandh is a student associated with Engineering Honors Academy at Rutgers New Brunswick. He is currently pursuing degrees in Electrical Engineering and Computer Science. He has a strong passion for math, science, and programming and plans to use these skills to solve problems related to wireless communications. He is open to working in all types of industries and am open-minded. He has previous experience in robotics through FRC and FLL in my middle school and high school career.

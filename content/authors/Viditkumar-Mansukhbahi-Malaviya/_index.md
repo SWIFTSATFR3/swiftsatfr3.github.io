@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Rifat Bin Rashid
+title: Viditkumar Mansukhbahi Malaviya
 
 # Username (this should match the folder name)
 authors:
-- Rifat Bin Rashid
+- Viditkumar Mansukhbahi Malaviya 
 
 #Author Names (alternative spellings etc)
 names:
-- Rifat Bin Rashid
+- Viditkumar Mansukhbahi Malaviya
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ department:
 weight: 300
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Graduate Researcher, M.S.
 
 # Organizations/Affiliations
 organizations:
@@ -33,21 +33,21 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Wireless Communication Technology
-- Signal Processing
-- Machine Learning
+- Wireless Communications
+- Curcyut Design
+- Semiconductors
 
 education:
   courses:
-  - course: Ph.D. in Electrical Engineering
+  - course: M.S. in Electrical Engineering
     institution: Rutgers Univerity, New Brunswick
-    year: 2028
+    year: 2025
 
 ##### UPDATE PREVIOUS EDUCATION ####
 
   - course: BSc in Electrical and Electronic Engineering
-    institution: Bangladesh University of Engineering and Technology
-    year: 2022
+    institution: L.J. Institute Of Engg And Tech.  
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,16 +57,10 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: "mailto:rr1472@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=nobS75MAAAAJ
-- icon: user-graduate
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Rifat-Rashid-3 
+  link: "mailto:vm699@scarletmail.rutgers.edu"  # For a direct email link, use "mailto:test@example.o
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rifat-bin-rashid/
+  link: https://www.linkedin.com/in/vidhitmalaviya/ 
 #- icon: university-logo
 #  icon_pack: Custom_University
 #  link: https://www.colorado.edu/certificate/iqbiology/people-0
@@ -87,8 +81,8 @@ user_groups:
 #any user groups to display on the page
 display_groups:
 - WINLAB 
-- Thrust_2
+- Thrust_1
 
 ---
 
-Rifat Bin Rashid is a first-year doctoral candidate in the Department of Electrical and Computer Engineering at Rutgers University, working under the supervision of Professor Narayan Mandayam. Prior to joining Rutgers, he earned his bachelor's degree from the Bangladesh University of Engineering and Technology (BUET). His research interests lie in next-generation wireless communication systems and signal processing techniques. Currently, he serves as a graduate assistant at WINLAB.
+Vidhitkumar Malaviya is a graduate student at Rutgers University, pursuing a degree in Electrical and Computer Engineering with a specialization in solid-state electronics. He completed his bachelor's degree in Electronics and Communication Engineering from Gujarat Technological University. Vidhitkumar has also gained valuable experience as a research intern at ISRO (Indian Space Research Organisation). Currently, he works as a research assistant at WINLAB, furthering his passion for innovation in these field
