@@ -22,7 +22,7 @@ department:
 weight: 200
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Former Graduate Researcher, Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -91,8 +91,7 @@ email: "sasa6749@colorado.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
+- Alumni
 - Test
 #any user groups to display on the page
 display_groups:
