@@ -90,6 +90,7 @@ user_groups:
 display_groups:
 - MWLab 
 - Thrust_1
+- Thrust 3
 
 ---
 

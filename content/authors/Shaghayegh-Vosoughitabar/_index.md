@@ -97,6 +97,10 @@ user_groups:
 display_groups:
 - MWLab
 - Thrust_3
+research_area: true
+
+research_area_tags:
+- 'Dynamic Exclusion Zones'
 ---
 
 Shaghayegh Vosoughitabar has graduated from electrical and computer engineering department at Rutgers University, studying under Professor Chung-Tse Michael Wu. Before arriving in New Jersey, Shaghayegh completed a bachelor’s and master's degree in from Iran University of Science and Technology. She is particularly interested in the intersectionality of metamaterial antennas and wireless communication security. Her current employment is at Apple, as a Wireless Systems RF/OTA Connectivity Engineer.
