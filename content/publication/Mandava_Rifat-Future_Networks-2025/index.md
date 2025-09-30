@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: SAT–Terrestrial Coexistence With Adaptive Beam and Power Control: An SDR-Based Emulation 
+title: SAT–Terrestrial Coexistence With Adaptive Beam and Power Control, An SDR-Based Emulation 
 subtitle: ''
 summary: ''
 authors:
