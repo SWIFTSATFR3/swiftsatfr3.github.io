@@ -22,7 +22,7 @@ department:
 weight: 300
 
 # Role/position
-role: Graduate Researcher, M.S.
+role: Former Graduate Researcher, M.S.
 
 # Organizations/Affiliations
 organizations:
@@ -82,7 +82,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+- Alumni
 - WINLAB Group
 #any user groups to display on the page
 display_groups:
@@ -95,4 +95,4 @@ research_area_tags:
 
 ---
 
-Sreeram Mandava is a second-year masters student in the electrical and computer engineering department at Rutgers University, studying under Professor Mandayam and Ivan Seskar. Before entering the master's program, Sreeram completed a bachelor’s at Rutgers University. He is particularly interested in the machine learning, wireless communication, and digital signal processing. He currently is a graduate assistant at WINLAB.
+Sreeram Mandava was a second-year masters student in the electrical and computer engineering department at Rutgers University, studying under Professor Mandayam and Ivan Seskar. Before entering the master's program, Sreeram completed a bachelor’s at Rutgers University. He is particularly interested in the machine learning, wireless communication, and digital signal processing. He currently is a graduate student at Rice University.
