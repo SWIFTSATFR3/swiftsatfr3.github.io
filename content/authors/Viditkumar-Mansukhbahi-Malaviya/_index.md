@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Viditkumar Mansukhbahi Malaviya
+title: Vidhitkumar Malaviya
 
 # Username (this should match the folder name)
 authors:
-- Viditkumar Mansukhbahi Malaviya 
+- Vidhitkumar Malaviya
 
 #Author Names (alternative spellings etc)
 names:
-- Viditkumar Mansukhbahi Malaviya
+- Vidhitkumar Malaviya
 
 # Is this the primary user of the site?
 superuser: false
