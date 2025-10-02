@@ -34,7 +34,7 @@ organizations:
 
 interests:
 - Wireless Communications
-- Curcyut Design
+- RF Circuit Design
 - Semiconductors
 
 education:
